@@ -11,3 +11,7 @@ Author: AJITH1518
 4.Customize Settings code 
 
 5.Chat Theme code
+
+6.Audio feature code
+
+7.Video feature code
